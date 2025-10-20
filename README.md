@@ -77,6 +77,7 @@ This project is meant for learning and experimentation, so feel free to extend i
 ---
 
 ## 📸 Example Output
+![demo](https://github.com/caffe-ian/conway-game-of-life/blob/main/conway.GIF)
 
 ---
 
